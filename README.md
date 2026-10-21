@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Suneetha Dokku 👋
 
-<!--
-**nagasuneetha1507/nagasuneetha1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering Student (2023–2027)
 
-Here are some ideas to get you started:
+🤖 AI Trainee at Calibo AI Academy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in Java, Python, and Artificial Intelligence and Machine Learning. I'm developing my skills through hands-on learning, programming practice, and projects.
+
+## 💻 Skills
+- **Programming:** Java, Python, SQL
+- **Data Analysis:** NumPy, Pandas, Matplotlib
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 Projects
+I'm working on building practical projects and improving my programming skills. Check my repositories for my learning and development work.
+
+## 🎯 Goals
+- Improve my programming and problem-solving skills.
+- Build useful projects and document my learning.
+- Prepare for software development and AI/ML opportunities.
+
+## 🤝 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/naga-suneetha-dokku-45776431b)
+- [GitHub](https://github.com/nagasuneetha1507)
+
+*Learning, building, and improving one project at a time.* 🌱
