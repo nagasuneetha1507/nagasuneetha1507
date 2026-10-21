@@ -9,7 +9,7 @@ I'm a Computer Science student interested in Java, Python, and Artificial Intell
 ## 💻 Skills
 - **Programming:** Java, Python, SQL
 - **Data Analysis:** NumPy, Pandas, Matplotlib
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code, MySQL
 
 ## 🚀 Projects
 I'm working on building practical projects and improving my programming skills. Check my repositories for my learning and development work.
