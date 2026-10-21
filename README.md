@@ -1,4 +1,4 @@
-# Hi, I'm Suneetha 👋
+# Hi, I'm Naga Suneetha 👋
 
 🎓 **B.Tech Computer Science and Engineering Student (2023–2027)**  
 🏫 Dhanekula Institute of Engineering and Technology  
